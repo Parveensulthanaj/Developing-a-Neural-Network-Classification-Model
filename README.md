@@ -49,7 +49,7 @@ Model Evaluation and Prediction – Evaluate performance using metrics and make 
 
 ## PROGRAM:
 
-### Name:PARVEEN SULTHANAN J
+### Name:PARVEEN SULTHANA J
 
 ### Register Number: 212224040233
 ```
